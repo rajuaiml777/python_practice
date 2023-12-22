@@ -1,0 +1,2 @@
+This module contains some useful functions on pathnames. The path parameters are either strings or bytes . These functions here are used for different purposes such as for merging, normalizing and retrieving path names in python . All of these functions accept either only bytes or only string objects as their parameters. 
+The result is an object of the same type, if a path or file name is returned. As there are different versions of operating system so there are several versions of this module in the standard library.
